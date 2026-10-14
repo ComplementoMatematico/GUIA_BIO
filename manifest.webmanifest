@@ -1,0 +1,11 @@
+{
+  "name": "Guía de Biología PAES 2027",
+  "short_name": "Biología PAES",
+  "description": "Teoría de los cuatro ejes, 240 preguntas tipo PAES y pauta explicada.",
+  "lang": "es",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#1b2f63",
+  "icons": [{ "src": "assets/logo.webp", "sizes": "512x512", "type": "image/webp", "purpose": "any" }]
+}
