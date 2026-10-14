@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.854" height="67.228" viewBox="0 0 122.854 67.228">
+<defs>
+<g>
+<g id="glyph-0-0">
+<rect x="-3.6" y="-2.8" width="43.2" height="33.6" mask="url(#mask-0)" transform="matrix(0.118637, 0, 0, 0.118637, 0.237274, -3.321841)"/>
+</g>
+<g id="glyph-0-1">
+<rect x="-2.8" y="-2.8" width="33.6" height="33.6" mask="url(#mask-1)" transform="matrix(0.118637, 0, 0, 0.118637, 0.237274, -3.321841)"/>
+</g>
+<g id="glyph-0-2">
+<rect x="-4.4" y="-2.8" width="52.8" height="33.6" mask="url(#mask-2)" transform="matrix(0.118637, 0, 0, 0.118637, 0.237274, -3.321841)"/>
+</g>
+<g id="glyph-0-3">
+<rect x="-3.6" y="-2.8" width="43.2" height="33.6" mask="url(#mask-3)" transform="matrix(0.118637, 0, 0, 0.118637, 0.237274, -3.321841)"/>
+</g>
+<g id="glyph-0-4">
+<rect x="-3.4" y="-3" width="40.8" height="36" mask="url(#mask-4)" transform="matrix(0.118637, 0, 0, 0.118637, 0.474549, -3.440478)"/>
+</g>
+</g>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 0.625 0 L 122.085938 0 L 122.085938 66.464844 L 0.625 66.464844 Z M 0.625 0 "/>
+</clipPath>
+<image id="source-52" x="0" y="0" width="36" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAcCAAAAAAsQkKEAAAAAmJLR0QA/4ePzL8AAACHSURBVDiNjZNBDkQhCEPpz9z/yp3Fz0QKZdCVgWcrKGDIwm+T4njiYuEcg2Z48p9dIWK0Y5KeoMxMdpQbWoilCmdXGQc1ptt1pCsx5EUs1PIGokczRAbgKA0i5GGtHfqxqlT+W9JyHV/7dCguUKX+/XEukJY4KQk12uUSl7nj28FhgiV8NcFfqnwhNkNZ+KIAAAAASUVORK5CYII="/>
+<mask id="mask-0">
+<use xlink:href="#source-52"/>
+</mask>
+<image id="source-98" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAAmJLR0QA/4ePzL8AAABDSURBVCiRY/zPgAoYkdhMDHgAROF/dD1E6ByVHCBJFtxS/2li538KXMuIU/I/Hp3/GRhw+ROa0hnRUzxRdjIwMDAAALDeCDYp/+AyAAAAAElFTkSuQmCC"/>
+<mask id="mask-1">
+<use xlink:href="#source-98"/>
+</mask>
+<image id="source-144" x="0" y="0" width="44" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAcCAAAAAA/lQJwAAAAAmJLR0QA/4ePzL8AAAB8SURBVDiNpdRRDoAgDAPQjnj/K88PRMZWiG79Mqa+VE0QxYiAZhbQ6F3exSX7no1YWTaPqF3XSGGbt8zpBU7KlF7hrExoB6flQHs4Lzs6wAX5X9nuiCtKMyZN4NoLDprBxU/XaQpXf0qn6SHSAEC/HAYAxLYeTu3VecYhN77YHzVKEVApAAAAAElFTkSuQmCC"/>
+<mask id="mask-2">
+<use xlink:href="#source-144"/>
+</mask>
+<image id="source-190" x="0" y="0" width="36" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAcCAAAAAAsQkKEAAAAAmJLR0QA/4ePzL8AAACCSURBVDiNjdNRDoAwCANQ4P53xg+Jg9Iu7pO9QEfU077j1k6rW4j6ON6vHS6zatExtvKqh90UySTVQa5V66RVHyfVyKTUDC4UvA7XSRFfFyKqFjISayMSnnTaio1bimZCxYODEq+bSxVorkuh0UuiP+NGq6jZ5FM7ypOW35P4S90mPuIyGjiiqq4SAAAAAElFTkSuQmCC"/>
+<mask id="mask-3">
+<use xlink:href="#source-190"/>
+</mask>
+<image id="source-236" x="0" y="0" width="34" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAeCAAAAABslJPIAAAAAmJLR0QA/4ePzL8AAAB+SURBVDiN3ZNLEoAwCEMJ978zLqz8sXUrG+0jE9BJQb5kPeEhaj83EAToDmhYAlAQ5nuGSWEUo0I55y+pMg5bx1qQ302IZLm0Jg/mjQmR8E6h6/5IghoVq7t1NGj4+TaGnWU7xyI1pI7ggtlmV4PZagwdXxLdDeX924UNqkAvlVIiLLI5sRkAAAAASUVORK5CYII="/>
+<mask id="mask-4">
+<use xlink:href="#source-236"/>
+</mask>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="none" stroke-width="0.79701" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M -0.000891474 -0.00131448 L 15.590175 15.589752 L 31.181242 -0.00131448 M 15.590175 15.589752 L 38.976776 38.976353 L 77.954443 -0.00131448 M 46.772309 -0.00131448 L 23.385709 23.385286 M 38.976776 38.976353 L 54.567843 54.56742 L 109.136577 -0.00131448 " transform="matrix(0.988647, 0, 0, -0.988647, 7.391506, 55.819013)"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="4.892207" y="62.197764"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-1" x="36.173988" y="62.197764"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-2" x="50.706111" y="62.197764"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-3" x="82.046223" y="62.197764"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-4" x="112.756567" y="62.197764"/>
+</g>
+</svg>
